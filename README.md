@@ -82,6 +82,12 @@ MazeGame/
 │   ├── player.cpp         # Player logic
 │   └── player.h           # Player header file
 │
+├── Rapport/               # Project report
+│   └── Rapport Maze.pdf        # Final project report
+│
+├── Video/                 # Demonstration videos
+│   └── demo.mp4           # Gameplay video
+│
 └── README.md              # Project documentation
 
 ```
