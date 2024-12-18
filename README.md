@@ -60,7 +60,6 @@ A young boy gets lost in a mysterious labyrinth while trying to return home. The
 
 --- 
 ## 📂 Project Structure
-## 📂 Project Structure
 
 ```plaintext
 MazeGame/
