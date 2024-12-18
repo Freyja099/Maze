@@ -88,9 +88,14 @@ MazeGame/
 
 Here are screenshots of the gameplay:
 
-1. **Gameplay Screenshot**  
-    ![Gameplay](screenshots/gameplay.png)
-2. **Victory Screen**
+1. **Gameplay Screenshot**
+    </br>
+   ![Gameplay](screenshots/Capture d'écran 2024-12-18 205450.png)
+    </br>
+    ![Gameplay](screenshots/Capture d'écran 2024-12-18 205507.png)
+    </br>
+    ![Gameplay](screenshots/Capture d'écran 2024-12-18 205524.png)
+3. **Victory Screen**
     ![Victory Screen](screenshots/victory.png)
 ---
 ## 🏆 Credits
