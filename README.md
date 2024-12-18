@@ -1,1 +1,104 @@
-# Maze
+# Maze Game
+
+Maze Game is a puzzle game built using **C++** and the **Raylib** graphics library. It offers an immersive experience where players guide a character through randomly generated mazes to find their way home. The game features a captivating story, multiple difficulty levels, and an engaging soundtrack for enhanced player immersion.
+
+---
+
+## 📖 Storyline
+A young boy gets lost in a mysterious labyrinth while trying to return home. The player must guide him through the maze to reach his house. The journey is enriched with dramatic introductions and heartwarming sound effects like the "Welcome Home" sound when the objective is achieved.
+
+---
+
+## 🎮 Features
+- **Random Maze Generation**: Each playthrough offers a unique maze.
+- **Three Difficulty Levels**: Easy, Medium, and Hard.
+- **Object-Oriented Design**: Developed using OOP principles in C++.
+- **Dynamic Storytelling**: Text and music set the mood for an engaging experience.
+- **Interactive Gameplay**:
+  - Navigate through the maze.
+  - Enjoy sound effects and background music.
+  - Replayability with score and save systems.
+- **Visual Effects**:
+  - Aesthetic graphics using Raylib.
+  - Animated text introduction.
+  - Smooth player controls.
+
+---
+
+## 🛠️ Technologies Used
+- **C++**: Core programming language.
+- **Raylib**: A lightweight library for 2D game development.
+- **OOP Principles**: For better code organization and reusability.
+
+---
+
+## 🔧 Functional Specifications
+1. Random maze generation.
+2. Interactive gameplay mechanics.
+3. Graphical user interface (GUI).
+4. Immersive sound design.
+5. Dynamic storytelling.
+6. Save system and replayability.
+
+---
+
+## 🚀 Getting Started
+### Prerequisites
+- C++ Compiler
+- Raylib installed on your system
+- A code editor or IDE (e.g., VS Code, CLion)
+
+## 🖼️ How It Works
+
+1. **Menu Navigation**: Choose a difficulty level or read the backstory.
+2. **Gameplay**:
+    - Navigate using arrow keys.
+    - Reach the exit (house) to win.
+3. **Sound & Music**:
+    - Dynamic sound effects for actions.
+    - Victory sound on winning.
+
+--- 
+## 📂 Project Structure
+MazeGame/
+│
+├── lib/                   # Library files
+│   ├── libgcc_s_dw2-1.dll
+│   └── libstdc++-6.dll
+│
+├── resources/             # Game assets
+│   ├── AA.mp3             # Background music
+│   ├── dd.png             # Player image
+│   ├── menu_music.wav     # Menu music
+│   ├── step.wav           # Step sound effect
+│   └── victory.wav        # Victory sound
+│
+├── Src/                   # Source code
+│   ├── main.cpp           # Main game logic
+│   ├── maze.cpp           # Maze generation logic
+│   ├── maze.h             # Maze header file
+│   ├── player.cpp         # Player logic
+│   └── player.h           # Player header file
+│
+└── README.md              # Project documentation
+
+
+---
+## 🖼️ Screenshots
+
+Here are screenshots of the gameplay:
+
+1. **Gameplay Screenshot**  
+    ![Gameplay](screenshots/gameplay.png)
+2. **Victory Screen**
+    ![Victory Screen](screenshots/victory.png)
+---
+## 🏆 Credits
+
+- **Team Members**:
+    - Salma Ait Sioui
+    - Aya Zoujari Idrissi
+    - Ayoub Farhaoui
+    - Mohamed Benhammou
+- **Professor**: Ikram Ben Abdel Ouahab
+
