@@ -108,7 +108,7 @@ Here are screenshots of the gameplay:
 2. **Victory Screen**
    </br>
    </br>
-    ![image](https://github.com/Freyja099/Maze/blob/8e02be5bc561360ae2babc52da9c1ea2b34b31dc/Screenshots/Capture%20d'%C3%A9cran%202024-12-18%20205650.png)
+    ![image](https://github.com/Freyja099/Maze/blob/7457e3bf1909296c64e7b9a08879b46ecea85038/Screenshots/Capture%20d'%C3%A9cran%202024-12-18%20205450.png)
 ---
 ## 🏆 Credits
 
