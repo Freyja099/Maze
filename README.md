@@ -99,12 +99,14 @@ Here are screenshots of the gameplay:
 
 1. **Gameplay Screenshot**
     </br>
+    </br>
    ![image](https://github.com/Freyja099/Maze/blob/8e02be5bc561360ae2babc52da9c1ea2b34b31dc/Screenshots/Capture%20d'%C3%A9cran%202024-12-18%20205450.png)
     </br>
     ![image](https://github.com/Freyja099/Maze/blob/8e02be5bc561360ae2babc52da9c1ea2b34b31dc/Screenshots/Capture%20d'%C3%A9cran%202024-12-18%20205507.png)
     </br>
     ![image](https://github.com/Freyja099/Maze/blob/8e02be5bc561360ae2babc52da9c1ea2b34b31dc/Screenshots/Capture%20d'%C3%A9cran%202024-12-18%20205524.png)
-3. **Victory Screen**
+2. **Victory Screen**
+   </br>
    </br>
     ![image](https://github.com/Freyja099/Maze/blob/8e02be5bc561360ae2babc52da9c1ea2b34b31dc/Screenshots/Capture%20d'%C3%A9cran%202024-12-18%20205650.png)
 ---
